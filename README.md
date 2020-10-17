@@ -26,5 +26,5 @@ The external warehouse system has provided us with the following publicly availa
 
 The external ordering system has provided us with the following publicly available endpoints:
 
-1) GET https://5f591c568040620016ab8de2.mockapi.io/api/v1/orders
+1) GET https://5f591c568040620016ab8de2.mockapi.io/api/v1/version20201017orders
 2) PUT https://5f591c568040620016ab8de2.mockapi.io/api/v1/version20201017orders/:orderId
